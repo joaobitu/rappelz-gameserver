@@ -1,0 +1,2 @@
+# rappelz-gameserver
+server
